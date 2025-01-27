@@ -1,0 +1,772 @@
+2025-01-25 15:36:45,804 - INFO - USB Drive Monitor Script Started
+2025-01-25 15:36:45,804 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:45,804 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:45,804 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:45,804 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:45,804 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:46,818 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:46,818 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:46,818 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:46,818 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:46,823 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:47,833 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:47,833 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:47,833 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:47,833 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:47,833 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:48,833 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:48,833 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:48,833 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:48,833 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:48,833 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:49,834 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:49,834 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:49,834 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:49,834 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:49,834 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:50,839 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:50,839 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:50,839 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:50,839 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:50,839 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:51,843 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:51,843 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:51,843 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:51,843 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:51,843 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:52,845 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:52,845 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:52,845 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:52,845 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:52,845 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:53,852 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:53,852 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:53,852 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:53,852 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:53,852 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:54,861 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:54,861 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:54,861 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:54,861 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:54,861 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:55,864 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:55,864 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:55,864 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:55,864 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:55,864 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:56,866 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:56,866 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:56,866 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:56,866 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:56,866 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:57,870 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:57,870 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:57,870 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:57,870 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:57,870 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:58,877 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:58,877 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:58,877 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:58,877 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:58,877 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:36:59,884 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:36:59,884 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:36:59,884 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:36:59,884 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:36:59,884 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:00,892 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:00,892 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:00,892 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:00,892 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:00,892 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:01,899 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:01,899 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:01,899 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:01,899 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:01,899 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:02,906 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:02,906 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:02,906 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:02,906 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:02,906 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:03,911 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:03,911 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:03,911 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:03,911 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:03,911 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:04,916 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:04,916 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:04,916 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:04,916 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:04,916 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:05,923 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:05,923 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:05,923 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:05,923 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:05,923 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:06,928 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:06,928 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:06,928 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:06,928 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:06,928 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:07,935 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:07,935 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:07,935 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:07,935 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:07,935 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:08,942 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:08,942 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:08,942 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:08,942 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:08,942 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:09,950 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:09,950 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:09,950 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:09,950 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:09,950 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:10,959 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:10,959 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:10,959 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:10,959 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:10,961 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:11,964 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:11,964 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:11,964 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:11,964 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:11,964 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:12,969 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:12,969 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:12,969 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:12,969 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:12,969 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:13,973 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:13,973 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:13,973 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:13,973 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:13,973 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:14,976 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:14,976 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:14,976 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:14,976 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:14,976 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:15,982 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:15,982 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:15,982 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:15,982 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:15,982 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:16,989 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:16,990 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:16,990 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:16,990 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:16,990 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:17,996 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:17,999 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:17,999 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:17,999 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:17,999 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:19,003 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:19,003 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:19,003 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:19,003 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:19,003 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:20,013 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:20,013 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:20,013 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:20,013 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:20,013 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:21,021 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:21,022 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:21,022 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:21,022 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:21,022 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:22,032 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:22,032 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:22,032 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:22,032 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:22,032 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:23,038 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:23,038 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:23,038 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:23,038 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:23,038 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:24,038 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:24,038 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:24,038 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:24,038 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:24,038 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:25,045 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:25,046 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:25,046 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:25,046 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:25,046 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:26,052 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:26,052 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:26,052 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:26,052 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:26,052 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:27,052 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:27,053 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:27,053 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:27,053 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:27,053 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:28,055 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:28,055 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:28,055 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:28,055 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:28,055 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:29,059 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:29,060 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:29,060 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:29,060 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:29,060 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:30,066 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:30,066 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:30,066 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:30,066 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:30,066 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:31,066 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:31,066 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:31,066 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:31,066 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:31,066 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:32,066 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:32,066 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:32,066 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:32,066 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:32,066 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:33,073 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:33,073 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:33,073 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:33,073 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:33,073 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:34,080 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:34,080 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:34,080 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:34,080 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:34,080 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:35,087 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:35,087 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:35,087 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:35,087 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:35,087 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:36,094 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:36,094 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:36,094 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:36,094 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:36,094 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:37,100 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:37,100 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:37,100 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:37,100 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:37,100 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:38,101 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:38,101 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:38,101 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:38,101 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:38,101 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:39,110 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:39,110 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:39,110 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:39,110 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:39,110 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:40,115 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:40,115 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:40,115 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:40,115 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:40,117 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:41,122 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:41,122 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:41,122 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:41,122 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:41,122 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:42,122 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:42,122 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:42,122 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:42,122 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:42,124 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:43,129 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:43,129 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:43,130 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:43,130 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:43,130 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:44,136 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:44,137 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:44,137 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:44,137 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:44,137 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:45,143 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:45,144 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:45,144 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:45,144 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:45,144 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:46,149 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:46,149 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:46,149 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:46,149 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:46,149 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:47,149 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:47,149 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:47,150 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:47,150 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:47,150 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:48,156 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:48,156 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:48,156 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:48,156 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:48,156 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:49,157 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:49,157 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:49,157 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:49,159 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:49,159 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:50,164 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:50,165 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:50,165 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:50,165 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:50,165 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:51,171 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:51,172 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:51,172 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:51,172 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:51,173 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:52,178 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:52,178 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:52,179 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:52,179 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:52,179 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:53,185 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:53,185 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:53,186 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:53,186 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:53,186 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:54,192 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:54,192 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:54,193 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:54,193 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:54,193 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:55,199 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:55,199 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:55,200 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:55,200 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:55,200 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:56,205 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:56,206 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:56,206 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:56,206 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:56,206 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:57,213 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:57,213 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:57,214 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:57,214 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:57,214 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:58,220 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:58,220 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:58,220 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:58,220 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:58,220 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:37:59,225 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:37:59,225 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:37:59,225 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:37:59,225 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:37:59,225 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:00,226 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:00,226 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:00,226 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:00,226 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:00,226 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:01,233 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:01,233 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:01,233 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:01,233 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:01,233 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:02,233 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:02,233 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:02,233 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:02,233 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:02,233 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:03,234 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:03,234 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:03,235 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:03,235 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:03,236 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:04,240 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:04,240 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:04,240 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:04,240 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:04,240 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:05,241 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:05,241 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:05,241 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:05,241 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:05,243 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:06,247 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:06,247 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:06,247 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:06,247 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:06,247 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:07,248 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:07,248 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:07,248 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:07,249 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:07,249 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:08,254 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:08,254 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:08,254 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:08,254 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:08,254 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:09,254 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:09,255 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:09,255 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:09,255 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:09,255 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:10,261 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:10,261 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:10,261 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:10,261 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:10,261 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:11,268 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:11,268 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:11,268 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:11,268 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:11,268 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:12,275 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:12,275 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:12,275 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:12,275 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:12,275 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:13,275 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:13,275 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:13,275 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:13,275 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:13,275 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:14,282 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:14,282 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:14,282 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:14,282 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:14,282 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:15,288 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:15,289 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:15,289 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:15,289 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:15,289 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:16,289 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:16,289 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:16,289 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:16,289 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:16,289 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:17,291 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:17,291 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:17,291 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:17,291 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:17,291 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:18,295 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:18,296 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:18,296 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:18,296 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:18,296 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:19,302 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:19,303 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:19,303 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:19,303 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:19,303 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:20,303 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:20,304 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:20,304 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:20,304 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:20,304 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:21,310 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:21,310 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:21,310 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:21,310 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:21,310 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:22,316 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:22,317 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:22,317 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:22,317 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:22,317 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:23,317 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:23,318 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:23,318 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:23,318 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:23,318 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:24,324 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:24,324 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:24,324 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:24,324 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:24,324 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:25,331 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:25,332 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:25,332 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:25,332 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:25,332 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:26,332 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:26,332 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:26,332 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:26,333 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:26,333 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:27,346 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:27,346 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:27,347 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:27,347 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:27,347 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:28,352 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:28,352 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:28,352 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:28,352 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:28,352 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:29,358 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:29,359 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:29,359 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:29,359 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:29,359 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:30,365 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:30,366 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:30,366 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:30,366 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:30,366 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:31,372 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:31,373 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:31,373 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:31,373 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:31,373 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:32,379 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:32,379 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:32,379 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:32,379 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:32,379 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:33,380 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:33,380 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:33,380 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:33,380 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:33,380 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:34,386 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:34,387 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:34,387 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:34,387 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:34,387 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:35,393 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:35,394 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:35,394 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:35,394 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:35,394 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:36,395 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:36,396 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:36,396 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:36,396 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:36,397 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:37,409 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:37,410 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:37,410 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:37,410 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:37,411 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:38,414 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:38,424 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:38,424 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:38,425 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:38,425 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:39,428 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:39,429 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:39,429 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:39,429 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:39,429 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:40,435 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:40,436 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:40,436 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:40,436 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:40,436 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:41,442 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:41,443 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:41,443 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:41,443 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:41,443 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:42,448 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:42,448 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:42,448 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:42,448 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:42,448 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:43,449 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:43,450 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:43,450 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:43,450 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:43,450 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:44,456 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:44,457 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:44,457 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:44,457 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:44,457 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:45,463 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:45,464 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:45,464 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:45,464 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:45,464 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:46,472 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:46,473 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:46,473 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:46,473 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:46,473 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:47,478 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:47,478 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:47,478 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:47,479 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:47,479 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:48,484 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:48,485 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:48,485 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:48,485 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:48,485 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:49,491 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:49,491 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:49,492 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:49,492 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:49,492 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:50,505 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:50,505 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:50,507 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:50,507 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:50,508 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:51,511 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:51,512 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:51,512 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:51,512 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:51,512 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:52,518 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:52,519 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:52,519 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:52,519 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:52,519 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:53,525 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:53,526 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:53,526 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:53,526 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:53,526 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:54,532 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:54,533 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:54,533 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:54,533 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:54,533 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:55,539 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:55,539 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:55,539 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:55,539 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:55,539 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:56,540 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:56,540 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:56,540 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:56,540 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:56,540 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:57,555 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:57,555 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:57,555 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:57,555 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:57,556 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:58,560 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:58,561 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:58,561 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:58,561 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:58,561 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:38:59,573 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:38:59,574 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:38:59,574 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:38:59,574 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:38:59,574 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:00,574 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:00,574 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:00,574 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:00,575 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:00,575 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:01,580 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:01,581 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:01,581 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:01,581 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:01,581 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:02,587 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:02,588 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:02,588 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:02,588 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:02,588 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:03,595 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:03,596 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:03,596 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:03,596 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:03,596 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:04,601 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:04,601 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:04,601 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:04,601 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:04,601 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:05,601 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:05,601 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:05,601 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:05,601 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:05,601 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:06,608 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:06,608 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:06,608 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:06,608 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:06,608 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:07,617 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:07,617 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:07,617 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:07,618 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:07,618 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:08,622 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:08,622 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:08,623 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:08,623 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:08,623 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:09,623 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:09,623 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:09,623 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:09,623 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:09,623 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:10,629 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:10,629 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:10,629 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:10,629 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:10,629 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:11,630 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:11,630 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:11,630 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:11,630 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:11,630 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:12,638 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:12,638 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:12,638 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:12,638 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:12,638 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:13,642 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:13,642 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:13,643 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:13,643 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:13,643 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:14,646 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:14,646 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:14,646 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:14,646 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:14,646 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:15,655 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:15,655 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:15,655 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:15,655 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:15,656 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:16,667 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:16,667 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:16,667 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:16,667 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:16,667 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:17,687 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:17,687 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:17,687 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:17,687 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:17,687 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:18,688 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:18,688 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:18,688 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:18,688 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:18,688 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:19,693 - DEBUG - Detected Drives: ['C:\\', 'D:\\', 'G:\\', 'Y:\\']
+2025-01-25 15:39:19,693 - DEBUG - Drive C:\ type: 3
+2025-01-25 15:39:19,693 - DEBUG - Drive D:\ type: 3
+2025-01-25 15:39:19,693 - DEBUG - Drive G:\ type: 3
+2025-01-25 15:39:19,693 - DEBUG - Drive Y:\ type: 3
+2025-01-25 15:39:20,682 - INFO - USB Drive Monitor Script Stopped.

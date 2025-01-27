@@ -137,7 +137,7 @@ WMI==1.5.1
 
 Developed by Roger Rached.  
 
-For questions or contributions, contact [Roger Rached](mailto:roger@example.com).
+For questions or contributions, contact [Roger Rached](mailto:Roger_Rached@outlook.com).
 
 ---
 
